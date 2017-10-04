@@ -1,6 +1,8 @@
 # CeAutoAsm-x64dbg
 An x64dbg plugin that allows users to execute Cheat Engine auto assembler scripts within x64dbg.
 
+**Donations:** [Donate via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7U7Q2GRT6KUJN)
+
 **Note: At this time, this plugin only supports the 32bit version of x64dbg!**
 
 # Overview
@@ -72,3 +74,13 @@ Here is a quick rundown of installing this plugin:
 Copy the x32 and x64 folders from the extracted zip over the x64dbg folder.
 
 If done properly, Windows should ask you to overwrite at least the plugins folder.
+
+# Credits, Thanks, Links
+
+ * atom0s - Main coder of the plugin, ceautoasm.dll project. 
+   * Site: [atom0s.com](http://atom0s.com)
+ * Dark Byte - For Cheat Engine in general.
+   * Site: [https://github.com/cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)
+ * x64dbg
+   * Site: [https://x64dbg.com](https://x64dbg.com)
+   * Code: [https://github.com/x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
