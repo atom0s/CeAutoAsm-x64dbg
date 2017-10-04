@@ -1,0 +1,12 @@
+{*
+
+
+
+*}
+[ENABLE]
+calc.exe:
+    db 90 90
+    
+[DISABLE]
+calc.exe:
+    db 4D 5A
