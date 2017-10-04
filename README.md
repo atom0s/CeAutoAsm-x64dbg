@@ -7,8 +7,8 @@ An x64dbg plugin that allows users to execute Cheat Engine auto assembler script
 
 The CeAutoAsm plugin is a wrapper around a mini-project of mine, ceautoasm.dll.
 
-ceautoasm.dll is Cheat Engine's internal auto assembler ripped out into a stand alone library that can be used pretty much 
-anywhere on a Windows environment. ceautoasm.dll uses the latest Cheat Engine code base for its internal workings with as
+ceautoasm.dll is Cheat Engine's internal auto assembler ripped out into a standalone library that can be used pretty much 
+anywhere in a Windows environment. ceautoasm.dll uses the latest Cheat Engine code base for its internal workings with as
 minimal changes to the original code as needed to make it work. 
 
 Some features of the auto assembler and internals have been removed to limit file size and ease of use.
@@ -16,9 +16,9 @@ Some features of the auto assembler and internals have been removed to limit fil
 **Removed Features (General)**
  * All ARM / JNI / Unix / Mono features removed.
  * All Lua features are removed.
- * All driver / kernel level features removed.
+ * All driver/kernel level features removed.
  * All DBVM features removed.
- * Structure / Extended debug information resolving removed. (May be restored later.)
+ * Structure / Extended debug information resolving removed. (May restore later.)
 
 **Removed Features (Auto Assembler Engine)**
  * Prologues _[Removed due to not using Lua/Plugin features.]_
