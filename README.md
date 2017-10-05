@@ -3,8 +3,6 @@ An x64dbg plugin that allows users to execute Cheat Engine auto assembler script
 
 **Donations:** [Donate via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7U7Q2GRT6KUJN)
 
-**Note: At this time, this plugin only supports the 32bit version of x64dbg!**
-
 # Overview
 
 The CeAutoAsm plugin is a wrapper around a mini-project of mine, ceautoasm.dll.
